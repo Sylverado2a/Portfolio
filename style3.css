@@ -6,7 +6,7 @@
   border-radius: 8px;
   padding: 0 50px 0 50px;
   margin: auto;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .contactez-nous > h1 {
@@ -94,4 +94,13 @@ form button {
   border-radius: 5px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   color: #303030;
+}
+.retour{ 
+	color: #000;  
+	width: 100px;  
+	opacity: 0.5; 
+  padding: 20px 0px 0px 20px;
+} 
+.retour:hover{ 
+	opacity: 1; 
 }
